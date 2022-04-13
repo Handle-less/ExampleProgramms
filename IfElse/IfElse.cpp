@@ -1,4 +1,4 @@
-//Новелла про совместимость по возрасту парня - Эдуардо и девушки - Александры
+//Novel about love status between guy - Eduardo and girl - Alexa
 
 #include <iostream>
 
